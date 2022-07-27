@@ -1,0 +1,12 @@
+t: Teléfono fijo
+m: Teléfono mobile
+mail
+I - = estructura que viene de indirizzo, codigo postal - localidad - (provincia)
+Tel
+Cel
+Fax 
+LinkedIn 
+Facebook 
+Instagram 
+srl 
+s.r.l
